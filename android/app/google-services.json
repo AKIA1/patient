@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "296912437792",
+    "firebase_url": "https://self-care-44a9b.firebaseio.com",
+    "project_id": "self-care-44a9b",
+    "storage_bucket": "self-care-44a9b.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:296912437792:android:d2d09aab9da281b5013245",
+        "android_client_info": {
+          "package_name": "com.elctrony.patient"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "296912437792-nrjrlo5qn0pgi910k8r26qpgkv4ofd6u.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.elctrony.patient",
+            "certificate_hash": "648813f15134b8b5adaeb0e4189622dd29fadf66"
+          }
+        },
+        {
+          "client_id": "296912437792-rl84ui9o48b2i5n0t5rs6gmo35h240b3.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAgfHBLsjt2CVAfFXzb0ObMypvT-lAEyJY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "296912437792-rl84ui9o48b2i5n0t5rs6gmo35h240b3.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
